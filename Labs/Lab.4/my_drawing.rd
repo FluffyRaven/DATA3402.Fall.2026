@@ -1,0 +1,1 @@
+RasterDrawing([Rectangle(10, 4, 10, 20, name='box', char='#'), Circle(8, 30, 2, name='ball', char='@'), Triangle(2, 11, 9, 4, 9, 18, name='roof', char='^')])

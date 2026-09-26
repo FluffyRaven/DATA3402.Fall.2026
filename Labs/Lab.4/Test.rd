@@ -1,0 +1,1 @@
+RasterDrawing({'box': Rectangle(10, 5, 10, 16, name='box', char='#'), 'roof': Triangle(10, 5, 3, 13, 10, 21, name='roof', char='^'), 'sun': Circle(6, 38, 4, name='sun', char='*')},['box', 'roof', 'sun'])
